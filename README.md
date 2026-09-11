@@ -12,4 +12,5 @@ emerge --sync
 | --- | --- |
 | [app-backup/proxmox-backup-client-bin](https://github.com/kirirururu/gentoo-overlay/tree/master/app-backup/proxmox-backup-client-bin) | https://proxmox.com/en/products/proxmox-backup-server/overview
 | [net-p2p/tremotesf](https://github.com/kirirururu/gentoo-overlay/tree/master/net-p2p/tremotesf) | https://github.com/equeim/tremotesf2
+| [sci-ml/aionui-bin](https://github.com/kirirururu/gentoo-overlay/tree/master/sci-ml/aionui-bin) | https://www.aionui.com
 | [sci-ml/lm-studio](https://github.com/kirirururu/gentoo-overlay/tree/master/sci-ml/lm-studio) | https://lmstudio.ai
